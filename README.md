@@ -9,4 +9,4 @@
 -   Keras, numpy, pandas
 
 ## Future
--   Turn into a full stack app
+-   train it to learn more complex tasks
